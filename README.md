@@ -46,17 +46,17 @@ $ react-native run-ios
     <td align="center">
       <a href="https://github.com/rocketseat">
         <img 
-          src="https://avatars.githubusercontent.com/u/49500316?s=200&v=4" 
+          src="https://avatars.githubusercontent.com/u/28929274?s=200&v=4" 
           width="100px;" 
-          alt="Sujeito Programador"
+          alt="Rocketseat"
         />
         <br />
         <sub>
-          <b>Sujeito Programador</b>
+          <b>Rocketseat</b>
         </sub>
        </a>
        <br />
-       <a href="https://sujeitoprogramador.com/" title="site">Sujeito Programador</a>       
+       <a href="https://www.rocketseat.com.br/" title="site">Rocketseat</a>       
     </td>
   </tr>
 </table>
