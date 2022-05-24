@@ -56,7 +56,10 @@ export function Home() {
         placeholderTextColor="#555"
         onChangeText={setNewSkill}
       />
-      <Button onPress={handleAddNewSkill} />
+      <Button
+        title="Add"
+        onPress={handleAddNewSkill}
+      />
 
       <Text style={[styles.title, { marginVertical: 50 }]}>
         MySkills
